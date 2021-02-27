@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### I'm 2mitu, nice to meet you. 👋
+- 🔭 Working on software testing...
+- 🌱 Larning Web development for fun.
 <!--
 **2mitu/2mitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
